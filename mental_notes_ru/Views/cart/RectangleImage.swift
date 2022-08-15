@@ -12,6 +12,7 @@ struct RectangleImage: View {
 
     var body: some View {
         image
+            .resizable()
             .frame(width: UIScreen.main.bounds.width - 100, height: 150)
             .clipShape(RoundedRectangle(cornerRadius: 20))
 
@@ -21,6 +22,6 @@ struct RectangleImage: View {
 
 struct CircleImage_Previews: PreviewProvider {
     static var previews: some View {
-        RectangleImage(image: Image("turtlerock"))
+        RectangleImage(image: Image("f001"))
     }
 }
