@@ -1,3 +1,3 @@
 # mental_notes_ru
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/shorts/LmwCPWzLiVY)
+# нажмите на картинку, чтобы увидеть видео с работой приложения
+[![Watch the video](https://i.ytimg.com/vi/LmwCPWzLiVY/hq720_2.jpg?sqp=-oaymwEdCM0CENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDSmxPIO7Le7GGAq9iBqdEYRwclRg)](https://www.youtube.com/shorts/LmwCPWzLiVY)
